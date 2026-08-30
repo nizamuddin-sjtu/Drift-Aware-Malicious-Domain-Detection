@@ -30,6 +30,12 @@ pip install -r requirements.txt
 
 Datasets, trained weights, and generated experiment outputs are not stored in this repository.
 
+## Citation
+
+If you use this repository in your work, please cite:
+
+Mangi, S. A., Rajper, S., Shaikh, N. A., & Maitlo, N. (2025). Efficient malicious domain detection using a distributed deep forest algorithm. *Preprints*. https://doi.org/10.20944/preprints202509.0573.v1
+
 ## License
 
 This project is available under the MIT License.
